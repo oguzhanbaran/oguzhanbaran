@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/oguzhanbaran" target="blank"><img src="https://img.shields.io/twitter/follow/oguzhanbaran?logo=twitter&style=for-the-badge" alt="oguzhanbaran" /></a> </p>
 
-- 🔭 I’m currently working on [Milvasoft](https://github.com/Milvasoft/Milvasoft)
+- 🔭 I’m currently working on Kuveytturk 
 
 - 👨‍💻 All of my projects are available at [here.](https://github.com/oguzhanbaran?tab=repositories)
 
